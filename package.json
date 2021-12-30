@@ -1,0 +1,22 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "slidev",
+    "build": "slidev build",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.27.0",
+    "@slidev/theme-apple-basic": "^0.20.0",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest",
+    "slidev-theme-flayyer": "^1.0.2",
+    "slidev-theme-geist": "^0.6.0"
+  },
+  "devDependencies": {
+    "@iconify-json/logos": "^1.0.2",
+    "@iconify-json/mdi": "^1.0.12",
+    "@iconify-json/uil": "^1.0.2",
+    "@iconify-json/uim": "^1.0.2"
+  }
+}

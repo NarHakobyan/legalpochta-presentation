@@ -1,0 +1,7 @@
+.slidev-vclick-target {
+    transition: all 400ms ease;
+  }
+  
+  .slidev-vclick-hidden {
+    opacity: 0;
+}
